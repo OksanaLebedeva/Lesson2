@@ -9,8 +9,21 @@ To mark the text with bold font, please use double stars (**) or double underlin
 Alternative options to mark the text with Italics or Bold are needed so that to combine those options. Example, _text can be marked with Italics and **be bold**_.
 
 ## Lists
+ 
+To add non-numerical lists, please use star (*) or plus (+) and space after it. Example:
+* Element 1
+* Element 2
+* Element 3
++ Element 4
 
-In order to format non-numerical list, please use (*). 
+To add numerical lists, please use numbers before lines. Example:
+1. First point
+2. Second point
+
+To add lists with lines, please use >, >>, >>>, etc. Example:
+> First layer
+>> Second layer
+>>> Third layer
 
 ## Work with images
 
