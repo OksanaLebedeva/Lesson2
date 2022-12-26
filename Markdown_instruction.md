@@ -12,6 +12,10 @@ Alternative options to mark the text with Italics or Bold are needed so that to 
 
 ## Work with images
 
+To enter the image into text, please use the following:
+![name to be shown](link to the image). Example:
+![Christmas Tree](Christmas_tree.jpg)
+
 ## Links
 
 ## Tables
