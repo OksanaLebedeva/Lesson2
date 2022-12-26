@@ -1,4 +1,4 @@
-# Instruction for work with Markdown
+# Instruction of work with Markdown
 
 ## Text marking
 
