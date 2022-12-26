@@ -10,6 +10,8 @@ Alternative options to mark the text with Italics or Bold are needed so that to 
 
 ## Lists
 
+In order to format non-numerical list, please use (*). 
+
 ## Work with images
 
 To enter the image into text, please use the following:
