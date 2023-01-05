@@ -37,7 +37,7 @@ git branch - list of branches
 git checkout [name] - swithch to branch (if used "master", then will switch to master copy)
 git log --graph - graph version of branches
 git merge [name] - which branch to merge with where you are
-git git branch -d [name] - delete branch
+git branch -d [name] - delete branch
 git branch [new name] - create new branch
 
 ## Links
